@@ -1,7 +1,6 @@
 ### # Olá Pessoal! :vulcan_salute:
 
 - 👨‍🎓 Estudante de Desenvolvimento de Software
-- 🌍 Localização: [Sua Cidade, Seu País]
 - 🎓 Cursando Analise de sistema
 - 📚 Apaixonado por aprender e construir coisas incríveis com código
 
