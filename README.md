@@ -13,8 +13,4 @@
 
 ## :keyboard: Hard Skills:
 
-![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
-![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
-![React](https://img.shields.io/badge/React-282C34?logo=react)
+![Skills](https://skillicons.dev/icons?i=nodejs,js,express)
