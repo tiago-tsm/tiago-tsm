@@ -14,3 +14,8 @@
 ## :keyboard: Hard Skills:
 
 ![Skills](https://skillicons.dev/icons?i=nodejs,js,express,css,html,postgresql,beekeeperstudio)
+
+
+**DevOps**
+
+![Skills](https://skillicons.dev/icons?i=git,github )
