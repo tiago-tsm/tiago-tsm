@@ -13,4 +13,4 @@
 
 ## :keyboard: Hard Skills:
 
-![Skills](https://skillicons.dev/icons?i=nodejs,js,express,css,html)
+![Skills](https://skillicons.dev/icons?i=nodejs,js,express,css,html,sql)
