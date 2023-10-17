@@ -13,7 +13,7 @@
 
 ## :keyboard: Hard Skills:
 
-![Skills](https://skillicons.dev/icons?i=nodejs,js,express,css,html,postgresql,beekeeperstudio)
+![Skills](https://skillicons.dev/icons?i=nodejs,js,express,css,html,postgresql,jquery)
 
 
 **DevOps**
