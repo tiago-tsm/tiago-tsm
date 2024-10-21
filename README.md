@@ -6,7 +6,7 @@
 - 👨‍🎓 Estudante de Desenvolvimento de Software
 - 🎓 Cursando Analise de sistema
 - 📚 Apaixonado por aprender e construir coisas incríveis com código
-- 📩 tiago.miranda@tsmdebug.com.br
+- 📩 tiagosm2019@gmail.com
 
  ## :point_right: Para me Encontrar:
 
